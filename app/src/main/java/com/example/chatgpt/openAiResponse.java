@@ -19,7 +19,7 @@ public class openAiResponse {
                 .model("text-davinci-003")
                 .temperature(0.0)
                 .topP(1.0)
-                .maxTokens(200)
+                .maxTokens(400)
                 .frequencyPenalty(0.0)
                 .presencePenalty(0.0)
                 .build();
