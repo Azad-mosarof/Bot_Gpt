@@ -1,16 +1,14 @@
 package com.example.chatgpt;
-
 import android.util.Log;
 
 
 import com.theokanning.openai.OpenAiService;
 import com.theokanning.openai.completion.CompletionChoice;
 import com.theokanning.openai.completion.CompletionRequest;
-
 import java.util.List;
 
 public class openAiResponse {
-    String myKey = "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";
+    String myKey = "Enter your api key here";
     OpenAiService service = new OpenAiService(myKey);
 
     public String getResponse(String prompt){
