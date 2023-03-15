@@ -26,4 +26,4 @@ Contributions to this project are welcome. If you would like to contribute, plea
 
 ## License
 Copyright © 2023 [Azad Mosarof](https://github.com/Azad-mosarof).<br />
-This project is [MIT](https://github.com/Azad-mosarof/E_SHOP/blob/5729e60c33c367888dda1e84d08dc9efa89932c7/LICENSE.md) licensed.
+This project is [MIT](https://github.com/Azad-mosarof/Bot_Gpt/blob/809c1f241739c834e19579e9edb142ba68b4b976/LICENCE.md) licensed.
