@@ -8,7 +8,7 @@ import com.theokanning.openai.completion.CompletionRequest;
 import java.util.List;
 
 public class openAiResponse {
-    String myKey = "Enter your api key here";
+    String myKey = "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";
     OpenAiService service = new OpenAiService(myKey);
 
     public String getResponse(String prompt){
